@@ -1,2 +1,2 @@
 # COVID-19
-Didanosine is a potential repurposed drug to cure COVID-19 using scRNA-seq data and a bioinformatics pipeline
+Repurposing didanosine as a potential treatment for COVID-19 using scRNA-seq data 
